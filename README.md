@@ -2,7 +2,7 @@
 Chatster is an open source chat app.
 
 ## chatster-ios
-This is Chatster iOS app. It is still in progress. The majority of UI is done and main work now is to write business logic.
+This is Chatster iOS app. `It is still in progress`. The majority of UI is done and main work now is to write business logic.
 
 ## Becoming Contributor
 If you want to become contributor, please send email to this address - `mwsoft.chatster@gmail.com`.
