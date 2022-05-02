@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chatster/View/Creators/Profile/ProfileHeader.swift"
+            timestampString = "574870552.239658"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "statsDelimeterTopView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chatster/View/Creators/Profile/ProfileHeader.swift"
+            timestampString = "574870621.294314"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "statsDelimeterTopView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chatster/Model/Follower.swift"
+            timestampString = "582370484.14153"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "Follower"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chatster.Follower.__allocating_init(creatorFollowers: Swift.Int64, creatorFollowing: Swift.Int64, creatorId: Swift.String, creatorProfileViews: Swift.Int64, creatorTotalLikes: Swift.Int64, followingThisCreator: Swift.Int64, posts: Swift.Int64, profilePic: Swift.String, statusMessage: Swift.String, website: Swift.String) -&gt; Chatster.Follower"
+                  moduleName = "Chatster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikolajuskarpovas/Desktop/iOS/Chatster/Chatster/Model/Follower.swift"
+                  timestampString = "581791515.611588"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chatster.Follower.init(creatorFollowers: Swift.Int64, creatorFollowing: Swift.Int64, creatorId: Swift.String, creatorProfileViews: Swift.Int64, creatorTotalLikes: Swift.Int64, followingThisCreator: Swift.Int64, posts: Swift.Int64, profilePic: Swift.String, statusMessage: Swift.String, website: Swift.String) -&gt; Chatster.Follower"
+                  moduleName = "Chatster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikolajuskarpovas/Desktop/iOS/Chatster/Chatster/Model/Follower.swift"
+                  timestampString = "581791515.919608"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
